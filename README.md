@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Özellikler</a> •
-  <a href="#how-to-use">Kullanım Şekli</a> •
-  <a href="#İndirmek için">Download</a> •
+  <a href="#özellikler">Özellikler</a> •
+  <a href="#kullanım">Kullanım Şekli</a> •
+  <a href="#indir">Download</a> •
   <a href="#kullanılan diller">Kullanılan diller</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
@@ -29,7 +29,7 @@
 
 </p>
 
-## Özellikler
+## özellikler
 
 * Genel kültür soruları çözebilme kabiliyeti
 * Genel Matematik Problemlerinin çözülmesi
@@ -37,7 +37,7 @@
 * Aritmetiksel soruların çözülmesi 
 *  Üniversite hakkında merak edilenlerin cevaplanması
 
-## Kullanım Şekli
+## kullanım
 
 Kodların çalıştırlması için bazı kütüphanelerin kurulması gerekiyor.
 ```bash
@@ -57,7 +57,7 @@ $ npm start
 
 
 
-## İndirmek için
+## indir
 
 İsterseniz [indir](https://github.com/fyzl-akyz/maku-ai-chatbot-api.git) tıklayarak repo ya direkt olarak ulaşabilirsiniz.
 ## Genel bilgilendirme

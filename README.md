@@ -44,9 +44,12 @@ Kodların çalıştırlması için bazı kütüphanelerin kurulması gerekiyor.
 $ import requests,bs4,argparse
 
 # Sohbet etmeye başlamak  
-$ py maku_ai.py --sorgu 'merhaba nasılsın ' 
+$ py maku_ai.py --sorgu 'merhaba nasılsın '
 
+# hakkımda bilgi 
+$ py maku_ai.py --sorgu 'hakkimda' 
 
+```
 
 
 

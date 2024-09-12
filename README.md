@@ -20,9 +20,8 @@
 <p align="center">
   <a href="#özellikler">Özellikler</a> •
   <a href="#kullanım">Kullanım Şekli</a> •
-  <a href="#indir">Download</a> •
+  <a href="#indir">İndir</a> •
   <a href="#diller">Kullanılan diller</a> •
-  <a href="#related">Related</a> •
   <a href="#license">License</a>
 
 ![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs5rO-NzoOnCrjhf1E4dTy9h49Xxukv8gIth9Q0IDBKKgmymGdazaS8TqRk6lPdxXwbT46iBnZzfxxUpAiSmex1s2Dq-k5rcAhfJrO4SL9tE3tIwtOpqyStoLYEXlCJLTiExsG9xXfCRo0811YtTiA_DxEO3bC-IoGguRADUVC-8ntNomdfxvryAnzrsBW/s320/aiBot%204.png)
@@ -48,11 +47,9 @@ $ import requests,bs4,argparse
 $ py maku_ai.py --sorgu 'merhaba nasılsın ' 
 
 # Hakkımda bilgiler 
-$ py maku_ai.py --sorgu 'merhaba nasılsın ' 
+$ py maku_ai.py --sorgu 'hakkimda' 
 
-# Run the app
-$ npm start
-```
+
 
 
 

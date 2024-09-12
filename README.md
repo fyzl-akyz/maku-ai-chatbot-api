@@ -46,8 +46,6 @@ $ import requests,bs4,argparse
 # Sohbet etmeye başlamak  
 $ py maku_ai.py --sorgu 'merhaba nasılsın ' 
 
-# Hakkımda bilgiler 
-$ py maku_ai.py --sorgu 'hakkimda' 
 
 
 

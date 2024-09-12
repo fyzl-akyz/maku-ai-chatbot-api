@@ -24,7 +24,7 @@
   <a href="#diller">Kullanılan diller</a> •
   <a href="#license">License</a>
 
-![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs5rO-NzoOnCrjhf1E4dTy9h49Xxukv8gIth9Q0IDBKKgmymGdazaS8TqRk6lPdxXwbT46iBnZzfxxUpAiSmex1s2Dq-k5rcAhfJrO4SL9tE3tIwtOpqyStoLYEXlCJLTiExsG9xXfCRo0811YtTiA_DxEO3bC-IoGguRADUVC-8ntNomdfxvryAnzrsBW/s320/aiBot%204.png)
+![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrA1gIZP0zmJZJmUR83JfYYl7uH3sb_XSqSagmSsM1KvtiZlra9cKMCtKVfly9QqeQCzgN6zI5L0pA659VTnoyDEGetfLblrIohHVhwktnn2S-W8z2JOgHm_V3n9PBYshweWLkATpIPLhgHkJ3Y1g9QaLpweaFwKw-zNEArT9bUckfor8zqt9Zzv8wpOVO/s16000/aiBot%204.png)
 
 </p>
 

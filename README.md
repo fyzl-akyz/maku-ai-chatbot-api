@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtqrCqGCvzRlPuD6jUbkAkFU0jX9CocTRuFqiEcuE7QJWZQ8y9EieKat2ONM3hvY1-9-CmOxPKCRthTyXhnfXpb-cxFVBNl24Z347nWAar8SRKKQCjDri_jvSD_iTGKYROBYdv-R2bnyhxe-QQ41RXuc7_esA7BThhNtNuJyAu55wpGQIxQn3XCCr1o3Qd/s320/makubilen.png" alt="Markdownify" width="200"></a>
+  <a href="https://ddk.maku.edu.tr/bilen/maku"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtqrCqGCvzRlPuD6jUbkAkFU0jX9CocTRuFqiEcuE7QJWZQ8y9EieKat2ONM3hvY1-9-CmOxPKCRthTyXhnfXpb-cxFVBNl24Z347nWAar8SRKKQCjDri_jvSD_iTGKYROBYdv-R2bnyhxe-QQ41RXuc7_esA7BThhNtNuJyAu55wpGQIxQn3XCCr1o3Qd/s320/makubilen.png" alt="Markdownify" width="200"></a>
   <br>
   MAKU CHATBOT API
   <br>

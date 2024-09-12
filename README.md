@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#özellikler">Özellikler</a> •
   <a href="#kullanım">Kullanım Şekli</a> •
-  <a href="#indir">Download</a> •
+  <a href="#indir">indir</a> •
   <a href="#diller">Kullanılan diller</a> •
   <a href="#license">License</a>
 
